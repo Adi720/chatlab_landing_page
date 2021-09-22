@@ -17,6 +17,12 @@ const content = [
         body: "It takes no time at all to integrate Huddle with your app's authentication solution. This means, once signed in to your app, your users can start chatting immediately.",
         image: 'illustration-your-users.svg',
     },
+    {
+        id: 4,
+        title: 'lorem ipsum',
+        body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud consequat.",
+        image: 'illustration-grow-together.svg',
+    }
 ]
 
 export default content
